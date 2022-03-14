@@ -18,6 +18,7 @@ Phone/WhatsApp: [(37) 9 9814 3951](https://wa.me/5537998143951) | E-mail: dev.ma
 * [Árvores do Rio Doce app](https://play.google.com/store/apps/details?id=com.geobit.renovaqrcode), used internally by the Brazilian Government Agency for Law Enforcement and Prosecution of Crimes. Its goal is to help field agents collect informations on animal abuse reports;
 * Speleology app, developed in partnership with Vale S.A. to help mapping mining caves;
 * SIGEAR system, developed in partnership with Belo Horizonte’s city hall to digitalize inspection processes in risk areas of the city.
+* Macromedidores system, developed in partnership with CAEMA (the water supplier to Maranhão state in northeast Brasil) to read and analyze data from the water quality all over the state.
 
 ## Skills
 * Flutter for Android/iOS app developing, together with MobX library for application state-managing;
