@@ -2,7 +2,7 @@
 
 Brasileiro - 20 anos - Belo Horizonte MG
 
-Telefone/WhatsApp: [(37) 9 9814 3951](https://wa.me/5537998143951) | E-mail: dev.mateusrodrigues@gmail.com | LinkedIn: [Mateus Rodrigues](https://www.linkedin.com/in/mateus-santos-78a927151/)
+Telefone/WhatsApp: [(31) 9 9966 5769](https://wa.me/5531999665769) | E-mail: dev.mateusrodrigues@gmail.com | LinkedIn: [Mateus Rodrigues](https://www.linkedin.com/in/mateus-santos-78a927151/)
 
 ## Experiência Profissional
 * Desenvolvedor mobile Android/iOS GeoBit Consultoria e Tecnologia GIS;
@@ -14,7 +14,7 @@ Telefone/WhatsApp: [(37) 9 9814 3951](https://wa.me/5537998143951) | E-mail: dev
 
 ## Projetos Desenvolvidos
 * Aplicativo da empresa Viasolo, utilizado internamente para disponibilização de rotas da coleta seletiva;
-* [Aplicativo Árvores do Rio Doce](https://play.google.com/store/apps/details?id=com.geobit.renovaqrcode), idealizado pela Fundação Renova e que reúne uma lista com todas as espécies de árvores encontradas na bacia do Rio Doce;
+* Aplicativo Árvores do Rio Doce, idealizado pela Fundação Renova e que reúne uma lista com todas as espécies de árvores encontradas na bacia do Rio Doce;
 * Aplicativo Proteção Animal, utilizado internamente pelo Ministério Público de Minas Gerais para ir a campo e colher informações sobre denúncias de maus tratos a animais de variadas espécies;
 * Aplicativo Espeleologia, desenvolvido em parceria com a Vale S.A. para auxiliar no mapeamento de cavernas e minas de mineração;
 * Sistema SIGEAR, desenvolvido em parceria com a Prodabel para digitalizar os processos de vistorias de áreas de risco na cidade de Belo Horizonte.
