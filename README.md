@@ -2,7 +2,7 @@
 
 Brazilian - 20 years old – Belo Horizonte MG
 
-Phone/WhatsApp: [(37) 9 9814 3951](https://wa.me/5537998143951) | E-mail: dev.mateusrodrigues@gmail.com | LinkedIn: [Mateus Rodrigues](https://www.linkedin.com/in/mateus-santos-78a927151/)
+Phone/WhatsApp: [(31) 9 9966 5769](https://wa.me/5531999665769) | E-mail: dev.mateusrodrigues@gmail.com | LinkedIn: [Mateus Rodrigues](https://www.linkedin.com/in/mateus-santos-78a927151/)
 
 ## Professional Experience
 * Android/iOS developer at GeoBit Consultoria & Tecnologia GIS;
