@@ -19,6 +19,7 @@ Phone/WhatsApp: [(31) 9 9966 5769](https://wa.me/5531999665769) | E-mail: dev.ma
 * Speleology app, developed in partnership with Vale S.A. to help mapping mining caves;
 * SIGEAR system, developed in partnership with Belo Horizonte’s city hall to digitalize inspection processes in risk areas of the city.
 * Macromedidores system, developed in partnership with CAEMA (the water supplier to Maranhão state in northeast Brasil) to read and analyze data from the water quality all over the state.
+* SIGS system, developed in partnership with Minas Gerais Police Department to manage the needs of the state's military hospital.
 
 ## Skills
 * Flutter for Android/iOS app developing, together with MobX library for application state-managing;
@@ -29,5 +30,6 @@ Phone/WhatsApp: [(31) 9 9966 5769](https://wa.me/5531999665769) | E-mail: dev.ma
 * Experience with Scrum agile methodology;
 * SQL databases usage and modeling;
 * Git for code versioning;
+* Use cases design and comprehension;
 * Professional working proficiency in talking, reading and listening comprehension in english;
 * Good communication and teamwork dedication.
