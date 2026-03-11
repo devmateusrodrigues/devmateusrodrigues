@@ -1,16 +1,16 @@
 # Mateus Henrique Santos Rodrigues
 
-Brasileiro - 21 anos - Belo Horizonte MG
+Brasileiro - 24 anos - Belo Horizonte MG
 
-Telefone/WhatsApp: [(31) 9 9966 5769](https://wa.me/5531999665769) | E-mail: dev.mateusrodrigues@gmail.com | LinkedIn: [Mateus Rodrigues](https://www.linkedin.com/in/mateus-santos-78a927151/)
+Telefone/WhatsApp: [(31) 9 9634 7362](https://wa.me/5531996347362) | E-mail: dev.mateusrodrigues@gmail.com | LinkedIn: [Mateus Rodrigues](https://www.linkedin.com/in/mateus-santos-78a927151/)
 
 ## Experiência Profissional
 * Desenvolvedor mobile Android/iOS GeoBit Consultoria e Tecnologia GIS;
 * Analista de desenvolvimento full stack PD Case Outsourcing e Consultoria.
 
 ## Formação Acadêmica
-* Formado no curso Técnico em Informática pelo CEFET-MG Campus V (2017-2019);
-* Cursando Sistemas de Informação pela UFMG (2020-2025).
+* Curso Técnico em Informática pelo CEFET-MG Campus V (2017-2019);
+* Graduação Sistemas de Informação pela UFMG (2020-2024).
 
 ## Projetos Desenvolvidos
 * Aplicativo da empresa Viasolo, utilizado internamente para disponibilização de rotas da coleta seletiva;
@@ -26,6 +26,8 @@ Telefone/WhatsApp: [(31) 9 9966 5769](https://wa.me/5531999665769) | E-mail: dev
 * Flutter para desenvolvimento de apps para Android e iOS, juntamente com a utilização da biblioteca MobX para gerenciamento de estado da aplicação;
 * Angular para manipulação visual de páginas em sistemas web;
 * Angular para desenvolvimento mobile Android, utilizado juntamente à ferramenta Ionic;
+* VueJS para manipulação visual de páginas em sistemas web;
+* VueJS para desenvolvimento mobile Android, utilizado juntamente à ferramenta Ionic;
 * Java para desenvolvimento backend, juntamente com a utilização do framework Hibernate para manipulação agilizada de bancos de dados;
 * Assinatura de apps para Android e iOS, bem como sua publicação na Play Store e App Store;
 * Escrita de casos de uso, histórias de usuário e documentações técnicas;
